@@ -49,3 +49,13 @@ li {
     padding: 0 4%;
     text-align: center;
 }
+
+/*-----------------------
+ヘッダー
+-----------------------*/
+#header {
+    display: flex;
+    text-justify: spase-between;
+    align-items: center;
+    margin: 0 auto;
+}
