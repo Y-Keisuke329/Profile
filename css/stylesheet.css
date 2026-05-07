@@ -55,7 +55,7 @@ li {
 -----------------------*/
 #header {
     display: flex;
-    text-justify: spase-between;
+    text-justify: space-between;
     align-items: center;
     margin: 0 auto;
 }
@@ -84,7 +84,7 @@ mainvisual
     margin-bottom: 80px;
 }
 
-#maincisual img {
+#mainvisual img {
     width: 100%;
     max-width: 1920px;
     height: 600px;
